@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Study",
+    "Work",
+    "Break",
+    "Exercise",
+    "Other"
+  ],
+  "entries": [
+    {
+      "id": 1,
+      "activity": "Learn DSA",
+      "category": "Study",
+      "date": "2026-08-03",
+      "start": "20:08:19",
+      "end": "20:08:27",
+      "duration_minutes": 0.13,
+      "note": ""
+    },
+    {
+      "id": 2,
+      "activity": "Office",
+      "category": "Work",
+      "date": "2026-08-03",
+      "start": "-",
+      "end": "-",
+      "duration_minutes": 10.0,
+      "note": ""
+    },
+    {
+      "id": 3,
+      "activity": "learning JAva",
+      "category": "Study",
+      "date": "2026-08-04",
+      "start": "14:33:44",
+      "end": "14:33:50",
+      "duration_minutes": 0.1,
+      "note": ""
+    }
+  ],
+  "active_timer": null,
+  "next_id": 4
+}
